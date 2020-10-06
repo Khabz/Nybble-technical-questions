@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.Json;
 
 namespace Question1
 {
@@ -8,10 +9,10 @@ namespace Question1
         {
             var input = new int[] { 3, 1, 2, 10, 1 };
             var output = RunningSum(input);
-            foreach (var number in output)
-            {
-                Console.Write($"{number}, ");
-            }
+
+            using JsonDocument doc = JsonDocument.Parse(JsonSerializer.Serialize(output));
+            JsonElement root = doc.RootElement;
+            Console.WriteLine(root);
             Console.ReadLine();
         }
 
