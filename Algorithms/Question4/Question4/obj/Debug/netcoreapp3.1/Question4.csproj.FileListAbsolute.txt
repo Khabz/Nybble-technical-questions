@@ -1,0 +1,13 @@
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.exe
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.deps.json
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.json
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.dev.json
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.dll
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.pdb
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfoInputs.cache
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfo.cs
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.csproj.CoreCompileInputs.cache
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.dll
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.pdb
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.genruntimeconfig.cache
+E:\Interview\Nybble\Nybble-technical-questions\Algorithms\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.csprojAssemblyReference.cache
