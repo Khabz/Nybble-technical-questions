@@ -1,0 +1,9 @@
+Question 1
+
+SELECT * FROM runners WHERE id NOT IN (SELECT winner_id FROM races)
+
+The result of the above query will return an empty set because the data set is being evaluated by the NOT IN conditon where races table contains a colomn with winner_id of null value.
+The null value affects the outcome of the NOT IN operator. 
+To avoid this, We will have to use IS NOT NULL operators instead : 
+
+SELECT * FROM runners WHERE id NOT IN (SELECT winner_id FROM races WHERE winner_id IS NOT null)
