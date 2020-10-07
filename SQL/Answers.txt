@@ -7,3 +7,14 @@ The null value affects the outcome of the NOT IN operator.
 To avoid this, We will have to use IS NOT NULL operators instead : 
 
 SELECT * FROM runners WHERE id NOT IN (SELECT winner_id FROM races WHERE winner_id IS NOT null)
+
+Question 2
+
+SELECT Name FROM Customers WHERE ReferredBy <> 2
+
+The above query will return Pat Richards only. In SQL, not equal operator is used to check whether two expressions are equal or not. 
+If it’s not equal then condition will be true and it will return not matched records.
+
+To get the desired results we can excuted the below query:-
+
+SELECT Name FROM Customers WHERE ReferredBy IS NULL OR ReferredBy <> 2
